@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assign_ticket_to">
+        <item quantity="other">Assign tickets to…</item>
+        <item quantity="one">Assign ticket to…</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%d days</item>
+        <item quantity="one">%d day</item>
+    </plurals>
+    <plurals name="delete_category_list_message">
+        <item quantity="other">Are you sure you want to delete selected categories?</item>
+        <item quantity="one">Are you sure you want to delete the category?</item>
+    </plurals>
+    <plurals name="delete_category_list_title">
+        <item quantity="other">Delete categories</item>
+        <item quantity="one">Delete category</item>
+    </plurals>
+    <plurals name="delete_customer_display_list_message">
+        <item quantity="other">Are you sure you want to delete selected customer displays?</item>
+        <item quantity="one">Are you sure you want to delete the customer display?</item>
+    </plurals>
+    <plurals name="delete_customer_display_list_title">
+        <item quantity="other">Delete customer displays</item>
+        <item quantity="one">Delete customer display</item>
+    </plurals>
+    <plurals name="delete_discount_list_message">
+        <item quantity="other">Are you sure you want to delete selected discounts?</item>
+        <item quantity="one">Are you sure you want to delete the discount?</item>
+    </plurals>
+    <plurals name="delete_discount_list_title">
+        <item quantity="other">Delete discounts</item>
+        <item quantity="one">Delete discount</item>
+    </plurals>
+    <plurals name="delete_item_list_message">
+        <item quantity="other">Are you sure you want to delete selected items?</item>
+        <item quantity="one">Are you sure you want to delete the item?</item>
+    </plurals>
+    <plurals name="delete_item_list_title">
+        <item quantity="other">Delete items</item>
+        <item quantity="one">Delete item</item>
+    </plurals>
+    <plurals name="delete_open_receipt_message">
+        <item quantity="other">Are you sure you want to void selected tickets?</item>
+        <item quantity="one">Are you sure you want to void the ticket?</item>
+    </plurals>
+    <plurals name="delete_open_receipt_title">
+        <item quantity="other">Void tickets</item>
+        <item quantity="one">Void ticket</item>
+    </plurals>
+    <plurals name="delete_printer_list_message">
+        <item quantity="other">Are you sure you want to delete selected printers?</item>
+        <item quantity="one">Are you sure you want to delete the printer?</item>
+    </plurals>
+    <plurals name="delete_printer_list_title">
+        <item quantity="other">Delete printers</item>
+        <item quantity="one">Delete printer</item>
+    </plurals>
+    <plurals name="delete_tax_list_message">
+        <item quantity="other">Are you sure you want to delete selected taxes?</item>
+        <item quantity="one">Are you sure you want to delete this tax?</item>
+    </plurals>
+    <plurals name="delete_taxes_list_title">
+        <item quantity="other">Delete taxes</item>
+        <item quantity="one">Delete tax</item>
+    </plurals>
+    <plurals name="edit_product_variation_sku_already_exist_dialog">
+        <item quantity="other">Items with such SKUs already exists (%s)</item>
+        <item quantity="one">Item with such SKU already exists (%s)</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Fast forward %d seconds</item>
+        <item quantity="one">Fast forward %d second</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Rewind %d seconds</item>
+        <item quantity="one">Rewind %d second</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">%d hour</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="not_applicable_for_x_dining_options">
+        <item quantity="other">Not applicable for %s dining options</item>
+        <item quantity="one">Not applicable for %s dining option</item>
+    </plurals>
+    <plurals name="number_of_variants">
+        <item quantity="other">%s variants</item>
+        <item quantity="one">%s variant</item>
+    </plurals>
+    <plurals name="pairing_select_reader_detected">
+        <item quantity="other">@string/pairing_select_readers_detected</item>
+        <item quantity="zero">@string/pairing_select_reader_detected</item>
+        <item quantity="one">@string/pairing_select_reader_detected</item>
+    </plurals>
+    <plurals name="payments_without_number">
+        <item quantity="other">Payments</item>
+        <item quantity="one">Payment</item>
+    </plurals>
+    <plurals name="print_characters">
+        <item quantity="other">%d characters</item>
+        <item quantity="one">%d character</item>
+    </plurals>
+    <plurals name="settings_customer_display">
+        <item quantity="other">%d displays</item>
+        <item quantity="one">%d display</item>
+    </plurals>
+    <plurals name="settings_printer_settingses">
+        <item quantity="other">%d printers</item>
+        <item quantity="one">%d printer</item>
+    </plurals>
+    <plurals name="settings_taxes_settingses">
+        <item quantity="other">%d taxes</item>
+        <item quantity="one">%d tax</item>
+    </plurals>
+    <plurals name="trade_items_discounts">
+        <item quantity="other">%d discounts</item>
+        <item quantity="one">%d discount</item>
+    </plurals>
+    <plurals name="trade_items_product_categories">
+        <item quantity="other">%d categories</item>
+        <item quantity="one">%d category</item>
+    </plurals>
+    <plurals name="trade_items_products">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+</resources>

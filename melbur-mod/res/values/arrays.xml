@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="delete_reasons">
+        <item>Business closed</item>
+        <item>High subscription prices</item>
+        <item>Lack of features for my business</item>
+        <item>The service is difficult to use</item>
+        <item>Poor customer support</item>
+        <item>My hardware is not supported</item>
+        <item>It was an account for testing</item>
+        <item>Found a better service</item>
+        <item>Other reason</item>
+    </string-array>
+    <string-array name="delete_reasons_codes_analytics">
+        <item>business_closed</item>
+        <item>high_prices</item>
+        <item>lack_of_features</item>
+        <item>difficult_to_use</item>
+        <item>poor_customer_support</item>
+        <item>my_hardware_not_supported</item>
+        <item>account_for_testing</item>
+        <item>found_better_service</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="delete_reasons_codes_mixpanel">
+        <item>Business closed</item>
+        <item>High prices</item>
+        <item>Lack of features</item>
+        <item>Difficult to use</item>
+        <item>Poor customer support</item>
+        <item>My hardware not supported</item>
+        <item>Account for testing</item>
+        <item>Found better service</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="delete_reasons_codes_server">
+        <item>business_closed</item>
+        <item>too_expensive</item>
+        <item>features_missing</item>
+        <item>difficult_to_use</item>
+        <item>lack_support</item>
+        <item>hardware_not_supported</item>
+        <item>was_test_acc</item>
+        <item>found_better</item>
+        <item>other_reason</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <array name="product_and_category_color">
+        <item>@color/category_white</item>
+        <item>@color/category_red</item>
+        <item>@color/category_pink</item>
+        <item>@color/category_blue</item>
+        <item>@color/category_green</item>
+        <item>@color/category_orange</item>
+        <item>@color/category_lime</item>
+        <item>@color/category_purple</item>
+        <item>@color/category_grey</item>
+    </array>
+    <array name="product_and_category_text_color">
+        <item>@color/product_category_dark</item>
+        <item>@color/white</item>
+        <item>@color/white</item>
+        <item>@color/white</item>
+        <item>@color/product_category_dark</item>
+        <item>@color/product_category_dark</item>
+        <item>@color/product_category_lime</item>
+        <item>@color/white</item>
+        <item>@color/product_category_dark</item>
+    </array>
+    <string-array name="sp_dining">
+        <item>For here</item>
+        <item>Take out</item>
+        <item>Delivery</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+version: 2.12.1
+apkFileName: MelburPOS-1.04.2.apk
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: 21
+  targetSdkVersion: 36
+packageInfo:
+  forcedPackageId: 127
+versionInfo:
+  versionCode: 390
+  versionName: 1.04.2
+doNotCompress:
+- arsc
+- mp3
+- ogg
+- png
+- wav
+- webp
+- assets/dexopt/baseline.prof
+- assets/dexopt/baseline.profm

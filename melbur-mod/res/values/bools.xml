@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="activation_hide_dot_indicator_cta">true</bool>
+    <bool name="activation_is_portrait_only">true</bool>
+    <bool name="auth_is_tablet">false</bool>
+    <bool name="enable_system_alarm_service_default">true</bool>
+    <bool name="enable_system_foreground_service_default">true</bool>
+    <bool name="enable_system_job_service_default">false</bool>
+    <bool name="floating_style_lock_portrait">true</bool>
+    <bool name="is_portrait_only">true</bool>
+    <bool name="mtrl_btn_textappearance_all_caps">true</bool>
+    <bool name="pairing_is_portrait_only">true</bool>
+    <bool name="payment_is_portrait_only">true</bool>
+    <bool name="screen_size_large">false</bool>
+    <bool name="windowLightStatusBar">true</bool>
+    <bool name="workmanager_test_configuration">false</bool>
+</resources>
