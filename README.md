@@ -31,16 +31,21 @@ Only vital, non-sensitive files are provided here, sufficient to show the app’
 
 *Screenshots Included*
 The repository also includes visual evidence of the app in real use at Melbur Foods:
-      •	App Screenshot
-        Located in `/screenshots/app-interface.png`
-        Shows the branded Melbur POS interface running on an Android device.
+      •	App Icon Screenshot
+            Located in `/screenshots/01-app-interface`
+            Shows the branded Melbur POS interface running on an Android device.
+      •	App Dashboard Screenshot
+            Located in `/screenshots/02-dashboard-interface.jpg`
+            Shows the app's dashboard showing the list of products we sell, arranged alphabetically
       •	Digital Receipt Screenshot
-        Located in `/screenshots/digital-receipt.png`
-        A sample receipt generated directly by the Melbur POS system after completing a transaction.
+            Located in `/screenshots/03-digital-receipt.jpg`
+            A sample receipt generated directly by the POS system
+      •     Located in `/screenshots/04-payment-methods`
+            Shows the modes of payment that can be used to finalize a transaction
       •	Physical Receipt Photo
-        Located in `/screenshots/physical-receipt.jpg`
-        A photograph of a real printed receipt produced by the POS device using the Melbur POS app, demonstrating operational integration with Melbur Foods’ hardware setup.
-These three pieces together demonstrate real-world operational usage, accuracy in sales logging, and integration between the software and printing hardware.
+            Located in `/screenshots/05-physical-receipt.jpg`
+            A photograph of a real printed receipt produced by the POS device using the Melbur POS app, demonstrating operational                     integration with Melbur Foods’ hardware setup.
+These pieces together demonstrate real-world operational usage, accuracy in sales logging, and integration between the software and printing hardware.
 
 *Infrastructure & Technology*
 Melbur POS was created using a mixed Android stack using the following frameworks: 
