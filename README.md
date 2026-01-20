@@ -76,5 +76,5 @@ Melbur Studios is responsible for all updates, branding work, version management
 
 *Visibility Window*
 This repository is publicly accessible for review between:
-15 December 2025 → 31 March 2026
+01 January 2026 → 30 April 2026
 After this period, the repository may be returned to private status for intellectual property protection.
