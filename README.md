@@ -1,5 +1,5 @@
 # 📲MELBUR POS – Android Application Demonstration Repository
-Developed at Melbur Studios
+Developed at Melbur Studios, for Melbur Foods
 
 🧩 *Overview*<br>
 Melbur POS is an Android-based point-of-sale application designed and maintained at Melbur Studios for internal business use at Melbur Foods. The system was developed in 2022 and started operations that October, to align with Melbur Foods’ expansion to Ngara, Nairobi. It has undergone continuous improvements, technical refinements, and branding updates by Melbur Studios since then.<br>
