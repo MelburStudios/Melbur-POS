@@ -1,4 +1,4 @@
-# 📲 MELBUR POS – Android Application Demonstration Repository
+# 📲MELBUR POS – Android Application Demonstration Repository
 Developed at Melbur Studios
 
 🧩 *Overview*<br>
