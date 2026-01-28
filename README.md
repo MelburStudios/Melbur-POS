@@ -1,4 +1,4 @@
-*MELBUR POS* - Android Application Demonstration Repository
+*MELBUR POS📲* - Android Application Demonstration Repository
 Developed at Melbur Studios
 
 *Overview*
@@ -68,13 +68,14 @@ To generate the files included in this repository:
       •	Configuration structure
 This approach protects the integrity of the production application while still demonstrating technical competence.
 
-*Credits*
-Developed at Melbur Studios
-Website: https://studios.melbur.co.ke 
-Lead Developer: Benson Muya
-Melbur Studios is responsible for all updates, branding work, version management, technical maintenance, and refinement of the Melbur POS app.
+👀*Repository Scope and Visibility*<br>
+This repository contains selected, representative files only, provided for technical review and demonstration purposes. The complete system includes additional proprietary components and configurations that are not publicly shared, as the software remains the intellectual property of Melbur Studios and is commercially licensed to partner organisations.<br>
 
-*Visibility Window*
-This repository is publicly accessible for review between:
-01 January 2026 → 30 April 2026
-After this period, the repository may be returned to private status for intellectual property protection.
+The repository is intentionally maintained within a limited visibility window (1 January – 31 May 2026) for assessment and verification purposes. After this period, the repository may be restricted or made private to protect commercial IP.<br><br>
+
+👨‍💻 *Author & Credits*<br>
+
+    🛠️ Developed at Melbur Studios<br>
+    🌐 https://studios.melbur.co.ke<br>
+    👤 Project Lead: Benson Muya<br>
+Melbur Studios is responsible for all updates, branding work, version management, technical maintenance, and refinement of the program.
